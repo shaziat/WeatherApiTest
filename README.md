@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Java project for API Testing, using cucumber-maven framework. This framework contains the tests to verify that the open MetaWeather API is reliable.
+Java project for API Testing, using cucumber-maven framework using restAssured. This framework contains the tests to verify that the open MetaWeather API is reliable.
 
 ## Installation
 
@@ -11,6 +11,8 @@ Maven needs to be installed to run this project. If you have homebrew installed 
 Brew install maven
 ```
 ## Run the tests
+
+At present the tests can be run via the IDE's run test option (IDE used Intellij)
 
 ### Directory structure
 
