@@ -1,5 +1,5 @@
 Feature:
-  git@github.com:shaziat/WeatherApiTest.git
+  Verify that the open MetaWeather API is reliable
 
   Scenario: Verify weather state name for today
     Given I perform GET operation for london "/location/44418"
